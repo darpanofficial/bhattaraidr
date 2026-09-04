@@ -44,8 +44,10 @@ header {
 .navlinks a {
   font-family: 'Space Mono', monospace;
   font-size: 12px;
+  font-weight: 700;
   color: var(--ink-dim);
   text-decoration: none;
+  text-transform: uppercase;
 }
 .navlinks a:hover { color: var(--accent); }
 
