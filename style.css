@@ -332,4 +332,14 @@ footer {
   .info-row { grid-template-columns: 1fr; }
   .info-card { border-right: none; border-bottom: 1px solid var(--line); }
   .info-card:last-child { border-bottom: none; }
+  .skills-list { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 560px) {
+  .skills-list { grid-template-columns: 1fr; }
+  .skill-item h4 { font-size: 22px; }
+  .skill-item { padding: 18px 16px; }
+  .hero-top { gap: 18px; }
+  .pitch { font-size: 22px; }
+  .band-label { font-size: 24px; }
 }
