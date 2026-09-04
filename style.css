@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,500;6..96,600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,500&family=Space+Mono:wght@400;700&family=Inter:wght@400;500&display=swap');
 
 :root {
-  --bg: #12201b;
-  --ink: #eee7d8;
-  --ink-dim: #8fa599;
-  --line: rgba(238, 231, 216, 0.14);
+  --bg: #ffffff;
+  --ink: #17332d;
+  --ink-dim: #61706b;
+  --line: rgba(23, 51, 45, 0.16);
   --accent: #e0a94a;
 }
 
@@ -63,7 +63,7 @@ header {
   flex: 0 0 230px;
   border: 1px solid var(--line);
   padding: 10px;
-  background: #16261f;
+  background: #f3f5f1;
   overflow: hidden;
   aspect-ratio: 4 / 5;
 }
