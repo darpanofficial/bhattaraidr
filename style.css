@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,500&family=Space+Mono:wght@400;700&family=Inter:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,400;6..96,500;6..96,600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,500&family=Space+Mono:wght@400;700&family=Inter:wght@400;500&display=swap');
 
 :root {
   --bg: #12201b;
@@ -82,8 +82,8 @@ header {
   margin-bottom: 22px;
 }
 h1.name {
-  font-family: 'Newsreader', serif;
-  font-style: italic;
+  font-family: 'Bodoni Moda', serif;
+  font-style: normal;
   font-weight: 500;
   font-size: clamp(48px, 8vw, 108px);
   line-height: 0.92;
@@ -145,8 +145,8 @@ h1.name {
 /* SKILLS BAND */
 .band { padding: 34px 0 10px; }
 .band-label {
-  font-family: 'Newsreader', serif;
-  font-style: italic;
+  font-family: 'Bodoni Moda', serif;
+  font-style: normal;
   font-weight: 500;
   font-size: 28px;
   color: var(--ink);
@@ -176,8 +176,8 @@ h1.name {
   margin-bottom: 12px;
 }
 .skill-item h4 {
-  font-family: 'Newsreader', serif;
-  font-style: italic;
+  font-family: 'Bodoni Moda', serif;
+  font-style: normal;
   font-weight: 500;
   font-size: 28px;
   line-height: 1.08;
@@ -199,8 +199,8 @@ h1.name {
   margin-bottom: 36px;
 }
 .focus-head h3 {
-  font-family: 'Newsreader', serif;
-  font-style: italic;
+  font-family: 'Bodoni Moda', serif;
+  font-style: normal;
   font-weight: 500;
   font-size: 28px;
 }
@@ -231,8 +231,8 @@ h1.name {
   margin-bottom: 34px;
 }
 .contact-head h3 {
-  font-family: 'Newsreader', serif;
-  font-style: italic;
+  font-family: 'Bodoni Moda', serif;
+  font-style: normal;
   font-weight: 500;
   font-size: 28px;
   margin-bottom: 14px;
